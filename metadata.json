@@ -1,0 +1,6 @@
+{
+  "name": "NGPM 配置管理平台",
+  "description": "网络性能与安全配置管理平台 - 规则管理与脱敏配置",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
